@@ -70,9 +70,3 @@ Testing with real Cisco/Juniper devices in a lab environment.
 
  References
 Huawei eNSP Documentation
-
-
- Author
-
-Aya Saeed
-
